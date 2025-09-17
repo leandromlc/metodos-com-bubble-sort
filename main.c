@@ -51,7 +51,6 @@ int main()
     printf("Ordem original\n");
     print_arr(ages);
 
-
     printf("Ordem crescente\n");
 
     increasing(ages);
