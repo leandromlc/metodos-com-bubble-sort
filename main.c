@@ -34,7 +34,7 @@ void decreasing(int *ages)
     }
 }
 
-int print_arr(int ages[10])
+void print_arr(int ages[10])
 {
     for (int i = 0; i < 10; i++)
     {
